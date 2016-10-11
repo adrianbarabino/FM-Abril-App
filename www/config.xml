@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>FM Abril 105.7</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Escuchá toda la programación de FM Abril 105.7 de Río Gallegos, Santa Cruz, Argentina.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://adrianbarabino.net" email="adrianbarabino@gmail.com">
+        Adrian Barabino
     </author>
 
     <!--
